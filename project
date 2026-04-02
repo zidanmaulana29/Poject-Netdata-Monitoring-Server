@@ -42,8 +42,5 @@ http://192.168.4.135:19999 atau netdata.zidan.psj:19999
 ## Hasil
 Sistem berhasil memonitor beberapa server secara terpusat dan menampilkan data performa secara real-time, sehingga memudahkan dalam analisis dan troubleshooting.
 
-## Tampilan Dashboard
-![Dashboard](dashboard.png)
-
 ## Author
 Nama: (Zidan Maulana Ibrahim)
